@@ -8,10 +8,11 @@ const Button = styled.button`
   border-radius: 4px;
   border: none;
   cursor: pointer;
-  transition-property: all;
+  transition-property: background-color, scale;
   transition-duration: 200ms;
   margin-top: ${0.725 * 2}rem;
   font-weight: bold;
+  font-family: 'Thonburi', Tahoma, sans-serif;
 
   :hover {
     background-color: #facc15;

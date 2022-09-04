@@ -12,7 +12,6 @@ const GlobalStyle = createGlobalStyle`
 
   body {
     background-color: #18181b;
-    font-family: 'Thonburi', Tahoma, sans-serif;
   }
 
   @font-face {
@@ -20,13 +19,6 @@ const GlobalStyle = createGlobalStyle`
     font-style: normal;
     font-weight: 400;
     src: url("/fonts/SFThonburi-Regular.ttf") format("truetype");
-  } 
-
-  @font-face {
-    font-family: 'Thonburi';
-    font-style: normal;
-    font-weight: 600;
-    src: url("/fonts/SFThonburi-Semibold.ttf") format("truetype");
   } 
 
   @font-face {

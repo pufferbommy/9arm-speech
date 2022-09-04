@@ -12,6 +12,7 @@ const Wrapper = styled.div`
 const Heading = styled.h1`
   color: #fff;
   font-size: 4rem;
+  font-family: 'Thonburi', Tahoma, sans-serif;
   margin: ${0.725 * 4}rem 0;
 `
 
